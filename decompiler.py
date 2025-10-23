@@ -2,7 +2,7 @@ import clr
 import sys
 import os
 
-# Add references to necessary .NET libraries (adjust paths if needed)
+# Add references to necessary .NET libraries (adjust paths if needed)!!!
 sys.path.append(os.path.dirname(os.path.abspath(__file__))) # Add current directory
 sys.path.append(r"C:\Users\SeregaSGD\AppData\Local\JetBrains\Installations\dotPeek252_000") # Adjust this path
 try:
